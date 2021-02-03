@@ -98,7 +98,6 @@
 	</plugin>
     </plugins>
   </reporting>
-</project>
 <distributionManagement>
     <repository>
         <id>central</id>
@@ -111,3 +110,4 @@
         <url>http://localhost:8081/artifactory/maven-deploy</url>
     </snapshotRepository>
 </distributionManagement>
+</project>
